@@ -84,7 +84,7 @@ export default function App() {
           onChange={(e) => setNewCategory(e.target.value)}
           placeholder="Add new category"
         />
-        <button type="submit">Thêm</button>
+        <button type="submit">Add category</button>
       </form>
 
       <hr />
